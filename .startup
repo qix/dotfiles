@@ -1,0 +1,2 @@
+evrouter /dev/input/powermate
+eval $(gpg-agent --daemon)
